@@ -1,0 +1,2 @@
+# Attribtuion
+This folder contains my solutions for the exercises for the Pandas Course on kaggle learn: [Learn Pandas](https://www.kaggle.com/learn/pandas)
