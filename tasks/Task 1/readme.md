@@ -12,9 +12,9 @@
 ### Model Results
 | Model                  | MAE   | RMSE  | R²   |
 |-------------------------|-------|-------|------|
-| Ridge (tuned)           | ...   | ...   | ...  |
-| RandomForest (tuned)    | ...   | ...   | ...  |
-| XGBRegressor (tuned)    | ...   | ...   | ...  |
+| Ridge (tuned)           | 0.4843    | 0.6758    | 0.6514  |
+| RandomForest (tuned)    |0.3294 | 0.5055 | 0.8050   |
+| XGBRegressor (tuned)    | 0.2880 | 0.4414 | 0.8513 |
 
 ### Conclusion
 - **Best model by R²**: XGBRegressor (captures non-linearities).  
